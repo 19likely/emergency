@@ -1,5 +1,5 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Dowlatabad
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#%F0%9F%95%B0%201405/04/07%2012%3A17%20A.M.
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#%F0%9F%95%B0%201405/04/07%2012%3A37%20A.M.
 vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&security=reality&sid=a120&sni=cdn.cdnjst.org&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20AL%20%5B01%5D
 vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20AL%20%5B02%5D
 vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%2C%20AM%20%5B01%5D
