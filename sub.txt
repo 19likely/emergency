@@ -1,5 +1,5 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Dowlatabad
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#%F0%9F%95%B0%201405/04/07%2010%3A40%20P.M.
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#%F0%9F%95%B0%201405/04/07%2011%3A00%20P.M.
 vless://d51524eb-ed6f-43c9-877d-90718d300e20@life.forredeye.com:2710?security=reality&type=tcp&headerType=&path=&host=&sni=www.samsung.com&fp=chrome&pbk=-lbK7wR5gjTZp-hrWxMylfYhBAKASCgR9wIPCVzRAno&sid=6ba85179e30d4a27#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20BG%20%5B01%5D
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@188.114.97.4:443?type=ws&encryption=none&path=%2Fdownload.php&host=sertraline.adaspoloandco.com&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=sertraline.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20CA%20%5B01%5D
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?type=ws&encryption=none&path=%2Fdownload.php&host=chopin.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=chopin.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20CA%20%5B02%5D
