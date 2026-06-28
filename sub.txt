@@ -1,5 +1,5 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Dowlatabad
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#%F0%9F%95%B0%201405/04/07%2009%3A58%20A.M.
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#%F0%9F%95%B0%201405/04/07%2010%3A18%20A.M.
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@131.255.4.219:989#%F0%9F%87%A6%F0%9F%87%B7%20Argentina%2C%20AR%20%5B01%5D
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#%F0%9F%87%A6%F0%9F%87%BF%20Azerbaijan%2C%20AZ%20%5B01%5D
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@188.114.97.4:443?type=ws&encryption=none&path=%2Fdownload.php&host=sertraline.adaspoloandco.com&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=sertraline.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20CA%20%5B01%5D
