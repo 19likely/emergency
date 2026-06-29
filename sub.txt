@@ -1,5 +1,5 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Dowlatabad
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#%F0%9F%95%B0%201405/04/08%2001%3A22%20P.M.
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&type=tcp&encryption=none#%F0%9F%95%B0%201405/04/08%2001%3A42%20P.M.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2C%20AU%20%5B01%5D
 vless://bef27a41-ea82-44d4-86f6-77d8538dd7b7@adidas.ftrer.shop:9010?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=qq&pbk=KN1iC4QtWi2hKbQ1zJerNck6YRGbIpzdLMn1C2hhQjs&sid=e8b1541e7387ffba#%F0%9F%87%A6%F0%9F%87%BF%20Azerbaijan%2C%20AZ%20%5B01%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R0pHU25idmRFcHdHOVhEMUo3bW44ODBUOFIxUE40Sg==@adidas.ftrer.shop:1080#%F0%9F%87%A6%F0%9F%87%BF%20Azerbaijan%2C%20AZ%20%5B02%5D
